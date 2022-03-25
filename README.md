@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivian
+- 👋 Hi, I’m Lily
 - 👀 I’m interested in playing badminton.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
